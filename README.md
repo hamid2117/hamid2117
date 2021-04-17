@@ -1,4 +1,4 @@
-# Kunal Raghav  
+# Hamid Mehmood
  [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamid/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@hamid2117/)
 [![Gmail Badge](https://img.shields.io/badge/-hamidmehmood21@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saim008865@gmail.com)](mailto:hamidmehmood21@outlook.com)
 
@@ -38,3 +38,12 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
+---
+
