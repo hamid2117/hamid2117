@@ -9,7 +9,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  
  🌱 I’m currently learning Mern stack dev.
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-React-Native-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to MERN Stack and ML-based project **Doc App**.
  
@@ -40,12 +40,6 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 
