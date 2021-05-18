@@ -13,7 +13,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  
  👯 I’m looking to MERN Stack and ML-based project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 🤔 I’m looking for help with [Github Social Media App](https://github.com/hamid2117/social-backend).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
  
