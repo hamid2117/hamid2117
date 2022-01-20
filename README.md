@@ -47,9 +47,9 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 
 ### Stats
 
-[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid2117&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid2117&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2117&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2117&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
