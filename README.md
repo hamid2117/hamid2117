@@ -6,16 +6,19 @@
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  
- 🌱 I’m currently learning Mern stack dev.
+ - 🌱 I’m currently learning Typescript and Electron Js .
  
- :books: I want to learn TensorFlow and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ - :books: I want to learn TensorFlow and Django
  
- 👯 I’m looking to MERN Stack and ML-based project **Doc App**.
+ - 😄 Pronouns: he/him
  
- 🤔 I’m looking for help with [Github Social Media App](https://github.com/hamid2117/social-backend).
+ - 👯 I’m looking to MERN Stack and Saas Application.
  
- 💬 Ask me about Full Stack Development, Front-End dev, and any Tech-related stuff.
+ - 💬 Ask me about Full Stack Development, Front-End dev, and any Tech-related stuff.
  
+ - ⚡ Languages:  Python3, Javascript & Typescript
+
+
  ---
  
  ### Tech & Tools Preference
