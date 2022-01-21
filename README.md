@@ -12,7 +12,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  
  - 😄 Pronouns: he/him
  
- - 👯 I’m looking to MERN Stack and Saas Application.
+ - 👯 I’m looking for MERN Stack and Saas Application.
  
  - 💬 Ask me about Full Stack Development, Front-End dev, and any Tech-related stuff.
  
