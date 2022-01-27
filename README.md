@@ -1,5 +1,5 @@
 # Hamid Mehmood
- [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamid/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@hamid2117/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamid/)](https://www.linkedin.com/in/kunalraghav/) [![Dev.to Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://medium.com/@KunalRaghav/)](https://dev.to.com/@hamid2117/)
 [![Gmail Badge](https://img.shields.io/badge/-hamidmehmood21@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saim008865@gmail.com)](mailto:hamidmehmood21@outlook.com)
 
 ## Hi 👋, 
