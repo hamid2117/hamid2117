@@ -6,7 +6,7 @@
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  
- - 🌱 I’m currently learning Typescript and Electron Js .
+ - 🌱 I’m currently learning React Native and Electron Js .
  
  - :books: I want to learn TensorFlow and Django
  
