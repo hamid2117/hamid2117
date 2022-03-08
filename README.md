@@ -2,6 +2,10 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamid/)](https://www.linkedin.com/in/kunalraghav/) [![Dev.to Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://medium.com/@KunalRaghav/)](https://dev.to/hamid2117)
 [![Gmail Badge](https://img.shields.io/badge/-hamidmehmood21@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saim008865@gmail.com)](mailto:hamidmehmood21@outlook.com)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid2117&label=Profile%20views&color=0e75b6&style=flat" alt="hamid2117" /> </p>
+
+
 ## Hi 👋, 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
