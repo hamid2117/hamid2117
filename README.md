@@ -7,16 +7,16 @@
 
 
 ## Hi 👋, 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  
  - 🌱 I’m currently learning React Native and Electron Js .
  
- - :books: I want to learn TensorFlow and Django
+ - :books: I want to learn TensorFlow and Django . 
  
  - 😄 Pronouns: he/him
  
- - 👯 I’m looking for MERN Stack and Saas Application.
+ - 👯 I’m looking for Next Js and Saas Application.
  
  - 💬 Ask me about Full Stack Development, Front-End dev, and any Tech-related stuff.
  
