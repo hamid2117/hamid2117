@@ -6,14 +6,8 @@
 
 
 ## Hi 👋, 
-I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Skills and Enthusiast about ML. :wink:
  
- 
- - 🌱 I’m currently learning React Native and Electron Js .
- 
- - :books: I want to learn TensorFlow and Django . 
- 
- - 😄 Pronouns: he/him
  
  - 👯 I’m looking for Next Js and Saas Application.
  
@@ -48,15 +42,12 @@ I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating th
 
 ---
 
-### Stats
+## Statistics
 
-[![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid2117&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2117&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=hamid2117&show_icons=true&theme=react&count_private=true&hide=contribs" />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2117&layout=compact&theme=react&hide=php&langs_count=6" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamid2117&layout=compact&theme=react&langs_count=6" />
-
+<div>
+  <img height="154" src="https://github-readme-stats.vercel.app/api?username=hamid2117&show_icons=true&theme=radical&count_private=true&hide=contribs" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2117&layout=compact&theme=radical&hide=php&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamid2117&layout=compact&theme=radical&langs_count=6" />
+</div>
 
 
