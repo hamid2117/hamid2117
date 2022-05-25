@@ -42,6 +42,15 @@ I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating th
 
 ---
 
+
+## Statistics
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkterminal&count_private=true&show_icons=true&theme=synthwave&hide_border=true" alt="darkterminal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=darkterminal&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkterminal&layout=compact&theme=synthwave&hide_border=true" alt="Wakatime">
+</p>
+<!-- 
 ## Statistics
 
 <div>
@@ -49,5 +58,5 @@ I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating th
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2117&layout=compact&theme=radical&hide=php&langs_count=6" />
 <!--   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamid2117&layout=compact&theme=radical&langs_count=6" /> -->
 </div>
-
+ -->
 
