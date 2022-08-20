@@ -1,5 +1,5 @@
 # Hamid Mehmood
-[![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamid-mehmood-602175205/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamid-mehmood-602175205/)](https://www.linkedin.com/in/hamid-mehmood-602175205/)
 [![Dev.to Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.com/@hamid2117)](https://dev.to/hamid2117)
 [![Gmail Badge](https://img.shields.io/badge/-hamidmehmood21@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saim008865@gmail.com)](mailto:hamidmehmood21@outlook.com)
 
