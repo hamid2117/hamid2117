@@ -5,12 +5,12 @@
 
 
 ## Hi 👋, 
-I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Skills and Enthusiast about ML. :wink:
+I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Skills and Enthusiast about Cloud Infrastructure Engineer. :wink:
  
  
- - 👯 I’m looking for Next Js and Saas Application.
+ - 👯 I’m looking for MERN Stack and Saas Application.
  
- - 💬 Ask me about Full Stack Development, Front-End dev, and any Tech-related stuff.
+ - 💬 Ask me about Full Stack Development, Back-End dev, and any Tech-related stuff.
  
  - ⚡ Languages:  Python3, Javascript & Typescript
 
