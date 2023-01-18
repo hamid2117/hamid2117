@@ -45,7 +45,7 @@ I am a Full-stack Developer who is exploring Cloud :cloud: while facilitating th
 ## Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamid2117&count_private=true&show_icons=true&theme=synthwave&hide_border=true" alt="darkterminal" />
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamid2117&count_private=true&show_icons=true&theme=synthwave&hide_border=true" alt="darkterminal" /> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamid2117&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamid2117&layout=compact&theme=synthwave&hide_border=true" alt="Wakatime"> -->
 </p>
